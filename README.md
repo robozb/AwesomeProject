@@ -17,7 +17,9 @@ Proper .vscode/launch.json:
   ]
 }
 ```
-Info: https://github.com/expo/vscode-expo/issues/226#issuecomment-1705432200
+Info: 
+- https://github.com/expo/vscode-expo/issues/226#issuecomment-1705432200
+- https://github.com/expo/vscode-expo
 
 
   
